@@ -4,7 +4,6 @@ A simple **Rock–Paper–Scissors** web game built using **HTML, CSS, and JavaS
 The user selects a choice, the computer randomly generates its choice, and the result is displayed instantly.
 
 ---
-
 ## 📌 Features
 - User-friendly interface  
 - Random computer choice generation  
